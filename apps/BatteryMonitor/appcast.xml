@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>BatteryMonitor</title>
+<item>
+<title>0.0.1</title>
+<pubDate>Thu, 03 Aug 2017 13:35:40 +0900</pubDate>
+<sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+<enclosure url="https://kishikawakatsumi.com/apps/BatteryMonitor/BatteryMonitor.app.zip" sparkle:version="1" sparkle:shortVersionString="0.0.1" length="1231854" type="application/octet-stream" sparkle:dsaSignature="MC0CFQC2yq5ohMYbs4spQJFrx9GFoBP5tgIUPYU32hzvMvtEZoT3Xpv9vnvg+2g="/>
+</item>
+</channel></rss>
