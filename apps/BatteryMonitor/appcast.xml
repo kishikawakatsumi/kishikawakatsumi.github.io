@@ -3,8 +3,8 @@
 <title>BatteryMonitor</title>
 <item>
 <title>0.0.1</title>
-<pubDate>Thu, 03 Aug 2017 13:35:40 +0900</pubDate>
+<pubDate>Thu, 03 Aug 2017 13:55:28 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-<enclosure url="https://kishikawakatsumi.com/apps/BatteryMonitor/BatteryMonitor.app.zip" sparkle:version="1" sparkle:shortVersionString="0.0.1" length="1231854" type="application/octet-stream" sparkle:dsaSignature="MC0CFQC2yq5ohMYbs4spQJFrx9GFoBP5tgIUPYU32hzvMvtEZoT3Xpv9vnvg+2g="/>
+<enclosure url="https://kishikawakatsumi.com/apps/BatteryMonitor/BatteryMonitor.app.zip" sparkle:version="1" sparkle:shortVersionString="0.0.1" length="1249044" type="application/octet-stream" sparkle:dsaSignature="MCwCFGHLa5yJ3wV9Je36hXZeWu4uQzeTAhROXEUj738Y+9qZLz6Znv0KM7P2YQ=="/>
 </item>
 </channel></rss>
